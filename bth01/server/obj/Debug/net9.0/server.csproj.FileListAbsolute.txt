@@ -1,0 +1,14 @@
+C:\workspace\socket\bth01\server\bin\Debug\net9.0\server.exe
+C:\workspace\socket\bth01\server\bin\Debug\net9.0\server.deps.json
+C:\workspace\socket\bth01\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\workspace\socket\bth01\server\bin\Debug\net9.0\server.dll
+C:\workspace\socket\bth01\server\bin\Debug\net9.0\server.pdb
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\server.dll
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\refint\server.dll
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\server.pdb
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\workspace\socket\bth01\server\obj\Debug\net9.0\ref\server.dll

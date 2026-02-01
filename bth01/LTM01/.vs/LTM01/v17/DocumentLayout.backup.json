@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\socket\\bth01\\LTM01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{413CD367-D860-43E0-B2CA-67F9D67D5DB6}|..\\LTM06\\LTM06.csproj|c:\\workspace\\socket\\bth01\\ltm06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BA9E-6442-478A-A740-AF2BCCEB7884}|..\\LTM04\\LTM04.csproj|c:\\workspace\\socket\\bth01\\ltm04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B396A8A-EF4B-4D33-972A-C3B8E3E57BE0}|..\\LTM03\\LTM03.csproj|c:\\workspace\\socket\\bth01\\ltm03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A417EEAA-4144-4601-8F40-A381D72E5C40}|..\\LTM02\\LTM02.csproj|c:\\workspace\\socket\\bth01\\ltm02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF1E1C-142D-4BE1-B76C-23252CA760ED}|LTM01.csproj|c:\\workspace\\socket\\bth01\\ltm01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF1E1C-142D-4BE1-B76C-23252CA760ED}|LTM01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A5BC53-B776-40C2-9F07-579974514350}|..\\server\\server.csproj|c:\\workspace\\socket\\bth01\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97759A8F-A547-43D9-B35D-1E830B56E607}|..\\client\\client.csproj|c:\\workspace\\socket\\bth01\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A5BC53-B776-40C2-9F07-579974514350}|..\\server\\server.csproj|c:\\workspace\\socket\\bth01\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\socket\\bth01\\LTM06\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LTM06\\Program.cs",
+              "ToolTip": "C:\\workspace\\socket\\bth01\\LTM06\\Program.cs",
+              "RelativeToolTip": "..\\LTM06\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:59:06.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\socket\\bth01\\LTM04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LTM04\\Program.cs",
+              "ToolTip": "C:\\workspace\\socket\\bth01\\LTM04\\Program.cs",
+              "RelativeToolTip": "..\\LTM04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:44:44.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\socket\\bth01\\LTM03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LTM03\\Program.cs",
+              "ToolTip": "C:\\workspace\\socket\\bth01\\LTM03\\Program.cs",
+              "RelativeToolTip": "..\\LTM03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:32:22.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\socket\\bth01\\LTM02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LTM02\\Program.cs",
+              "ToolTip": "C:\\workspace\\socket\\bth01\\LTM02\\Program.cs",
+              "RelativeToolTip": "..\\LTM02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:25:08.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\socket\\bth01\\client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\client\\Program.cs",
+              "ToolTip": "C:\\workspace\\socket\\bth01\\client\\Program.cs",
+              "RelativeToolTip": "..\\client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T02:46:46.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "server.csproj",
+              "DocumentMoniker": "C:\\workspace\\socket\\bth01\\server\\server.csproj",
+              "RelativeDocumentMoniker": "..\\server\\server.csproj",
+              "ToolTip": "C:\\workspace\\socket\\bth01\\server\\server.csproj",
+              "RelativeToolTip": "..\\server\\server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T02:39:52.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\socket\\bth01\\server\\Program.cs",
+              "RelativeDocumentMoniker": "..\\server\\Program.cs",
+              "ToolTip": "C:\\workspace\\socket\\bth01\\server\\Program.cs",
+              "RelativeToolTip": "..\\server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T02:36:01.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\socket\\bth01\\LTM01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\workspace\\socket\\bth01\\LTM01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T02:26:09.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

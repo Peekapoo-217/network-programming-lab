@@ -1,0 +1,14 @@
+C:\workspace\socket\bth01\LTM01\bin\Debug\net9.0\LTM01.exe
+C:\workspace\socket\bth01\LTM01\bin\Debug\net9.0\LTM01.deps.json
+C:\workspace\socket\bth01\LTM01\bin\Debug\net9.0\LTM01.runtimeconfig.json
+C:\workspace\socket\bth01\LTM01\bin\Debug\net9.0\LTM01.dll
+C:\workspace\socket\bth01\LTM01\bin\Debug\net9.0\LTM01.pdb
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\LTM01.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\LTM01.AssemblyInfoInputs.cache
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\LTM01.AssemblyInfo.cs
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\LTM01.csproj.CoreCompileInputs.cache
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\LTM01.dll
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\refint\LTM01.dll
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\LTM01.pdb
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\LTM01.genruntimeconfig.cache
+C:\workspace\socket\bth01\LTM01\obj\Debug\net9.0\ref\LTM01.dll
