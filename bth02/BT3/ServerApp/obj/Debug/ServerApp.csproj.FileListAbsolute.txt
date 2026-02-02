@@ -1,0 +1,11 @@
+C:\workspace\socket\bth02\BT3\ServerApp\bin\Debug\ServerApp.exe.config
+C:\workspace\socket\bth02\BT3\ServerApp\bin\Debug\ServerApp.exe
+C:\workspace\socket\bth02\BT3\ServerApp\bin\Debug\ServerApp.pdb
+C:\workspace\socket\bth02\BT3\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\workspace\socket\bth02\BT3\ServerApp\obj\Debug\ServerApp.Form1.resources
+C:\workspace\socket\bth02\BT3\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\workspace\socket\bth02\BT3\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+C:\workspace\socket\bth02\BT3\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\workspace\socket\bth02\BT3\ServerApp\obj\Debug\ServerApp.exe
+C:\workspace\socket\bth02\BT3\ServerApp\obj\Debug\ServerApp.pdb
+C:\workspace\socket\bth02\BT3\ServerApp\obj\Debug\ServerApp.exe.config

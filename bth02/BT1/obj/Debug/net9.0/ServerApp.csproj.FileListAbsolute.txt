@@ -1,0 +1,15 @@
+C:\workspace\socket\bth02\BT1\bin\Debug\net9.0\ServerApp.exe
+C:\workspace\socket\bth02\BT1\bin\Debug\net9.0\ServerApp.deps.json
+C:\workspace\socket\bth02\BT1\bin\Debug\net9.0\ServerApp.runtimeconfig.json
+C:\workspace\socket\bth02\BT1\bin\Debug\net9.0\ServerApp.dll
+C:\workspace\socket\bth02\BT1\bin\Debug\net9.0\ServerApp.pdb
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ServerApp.AssemblyInfoInputs.cache
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ServerApp.AssemblyInfo.cs
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ServerApp.sourcelink.json
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ServerApp.dll
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\refint\ServerApp.dll
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ServerApp.pdb
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ServerApp.genruntimeconfig.cache
+C:\workspace\socket\bth02\BT1\obj\Debug\net9.0\ref\ServerApp.dll
