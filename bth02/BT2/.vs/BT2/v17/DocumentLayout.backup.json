@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{56E795A4-09D8-42EE-A90C-0E9DF34FAFFF}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E795A4-09D8-42EE-A90C-0E9DF34FAFFF}|ClientApp\\ClientApp.csproj|c:\\workspace\\socket\\bth02\\bt2\\clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{56E795A4-09D8-42EE-A90C-0E9DF34FAFFF}|ClientApp\\ClientApp.csproj|C:\\workspace\\socket\\bth02\\BT2\\clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{56E795A4-09D8-42EE-A90C-0E9DF34FAFFF}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E795A4-09D8-42EE-A90C-0E9DF34FAFFF}|ClientApp\\ClientApp.csproj|c:\\workspace\\socket\\bth02\\bt2\\clientapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56E795A4-09D8-42EE-A90C-0E9DF34FAFFF}|ClientApp\\ClientApp.csproj|C:\\workspace\\socket\\bth02\\BT2\\clientapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56E795A4-09D8-42EE-A90C-0E9DF34FAFFF}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "ClientApp\\Form1.cs",
               "ToolTip": "C:\\workspace\\socket\\bth02\\BT2\\ClientApp\\Form1.cs",
               "RelativeToolTip": "ClientApp\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwIQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T08:04:15.371Z",
               "EditorCaption": ""
@@ -50,8 +54,7 @@
               "ToolTip": "C:\\workspace\\socket\\bth02\\BT2\\ClientApp\\Form1.cs [Design]",
               "RelativeToolTip": "ClientApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:04:14.035Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-02T08:04:14.035Z"
             },
             {
               "$type": "Document",
@@ -63,8 +66,7 @@
               "RelativeToolTip": "ClientApp\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:04:10.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T08:04:10.343Z"
             }
           ]
         }
